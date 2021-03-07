@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    width: 100vw;
+}
+.welcome{
+    width: 100vw;
+    background-color: cadetblue ;
+    height: 8vh;
+}
+.baner{
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 30px;
+    font-family: "Comic Sans MS"  ;
+}
+
+
+
+.toolbar{
+    width: 100vw;
+    height: 10vh;
+    background-color: indianred;
+    font-family: Cambria;
+}
+.toolbar .menu{
+    text-align: center;
+}
+.menu p{
+    float:left;
+    width: 20vw;
+    margin-top: 1.5vw;
+    font-size: 30px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.menu p:nth-child(1){
+    margin-left: 20vw;
+}
+.filtr{
+    width: 30vw;
+    height: 90vh;
+    float: left;
+    background-color: darkcyan;
+}
+.main{
+    width: 70vw;
+    height: 90vh;
+    float: left;
+    background-color: brown;
+}
+.contact{
+    width: 100vw;
+    height: 50vh;
+    float: left;
+
+}
+
