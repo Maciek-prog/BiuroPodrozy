@@ -4,27 +4,21 @@ const slideList = [{
     },
     {
         img: "Images/Azja.jpg" ,
-        text: 'Azja'
     },
     {
         img: "Images/barcelona.jpg",
-        text: 'Hiszpania'
     },
     {
         img: "Images/LA.jpg",
-        text: 'Ameryka Północna'
     },
     {
         img: "Images/oceania.jpg",
-        text: 'Oceania'
     },
     {
         img: "Images/paryz.jpg",
-        text: 'Francja'
     },
     {
         img: "Images/rio.jpg",
-        text: 'Ameryka Południowa'
     }];
 
 const image = document.querySelector('img.slider');
