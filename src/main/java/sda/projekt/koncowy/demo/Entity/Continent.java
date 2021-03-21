@@ -11,6 +11,7 @@ public class Continent {
     private long id;
 
     @Column
+//    @OneToOne
     private String nazwa;
 
     public long getId() {
